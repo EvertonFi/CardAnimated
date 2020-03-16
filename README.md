@@ -1,6 +1,6 @@
 ﻿# Card Animated
 Esse é um exemplo de como desenvolver animações apenas utilizando CSS
 
-# Previa do Projeto
+# Prévia do Projeto
 
-![] (https://raw.githubusercontent.com/EvertonFi/CardAnimated/master/Preview.gif)
+![](https://raw.githubusercontent.com/EvertonFi/CardAnimated/master/Preview.gif)
