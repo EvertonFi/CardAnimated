@@ -18,11 +18,13 @@ body{
     width: 1000px;
     position: relative;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .container .card{
     position: relative;
+    margin: 0px 10px;
 }
 
 .container .card .face{
@@ -43,7 +45,7 @@ body{
 
 .container .card:hover .face.face1{
     transform: translateY(0px);
-    background: #ff0057;
+    background: #009c9c;
 }
 
 .container .card .face.face1 .content{
